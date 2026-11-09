@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
+setup_strava.py
+deploy.sh
+README.md
